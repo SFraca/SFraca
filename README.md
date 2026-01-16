@@ -1,45 +1,43 @@
-# Hola, soy Samuel Fraca 👋
+# Samuel Fraca
 
-### 🚀 Estudiante de 2º de DAW (Desarrollo de Aplicaciones Web)
-Estoy en la recta final de mi formación técnica, combinando el desarrollo de software con conocimientos sólidos en sistemas y redes. Me apasiona construir soluciones eficientes y actualmente estoy explorando el mundo de la Inteligencia Artificial.
+### Desarrollador de Aplicaciones Web | Sistemas y Redes
+Estudiante de último curso de DAW. Mi formación combina el desarrollo de software con la gestión de infraestructura y redes, lo que me permite tener una visión técnica integral. Actualmente enfocado en finalizar mi titulación y explorar la integración de IA en el desarrollo convencional.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Stack Tecnológico
 
-**Lenguajes y Desarrollo Web**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+**Desarrollo y Lenguajes**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Sistemas y Bases de Datos**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Sistemas](https://img.shields.io/badge/Redes_y_Sistemas-333?style=for-the-badge&logo=linux&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Sistemas](https://img.shields.io/badge/Sistemas_y_Redes-333333?style=flat-square&logo=linux&logoColor=white)
 
-**Herramientas e IDEs**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-
----
-
-### 🧠 En qué me estoy enfocando ahora
-- 🎓 Terminando mi último año de **DAW**.
-- 🤖 Aprendiendo los fundamentos de la **programación de IA**.
-- 🛠️ Desarrollando proyectos académicos y personales para mejorar mi lógica y arquitectura.
+**Herramientas**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IDE](https://img.shields.io/badge/Eclipse_/_NetBeans-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 ---
 
-### 🌐 Conecta conmigo
-¿Quieres ver mis trabajos o hablar de tecnología?
-
-- 💻 **Portfolio Personal:** [sfraca.dev](https://sfraca.dev)
-- 💼 **LinkedIn:** [Samuel Fraca Serrano](https://www.linkedin.com/in/samuel-fraca-serrano-81227a2ba)
+### Formación y objetivos actual
+- Finalización de Ciclo Formativo de Grado Superior en DAW.
+- Profundización en lógica de programación y fundamentos de IA.
+- Desarrollo de proyectos personales y académicos orientados a soluciones prácticas.
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-![Estadísticas de Samuel](https://github-readme-stats.vercel.app/api?username=SFraca&show_icons=true&theme=tokyonight&count_private=true)
+### Contacto
+- **Portfolio:** [sfraca.dev](https://sfraca.dev)
+- **LinkedIn:** [linkedin.com/in/samuel-fraca-serrano-81227a2ba](https://www.linkedin.com/in/samuel-fraca-serrano-81227a2ba)
+
+---
+
+### Actividad en GitHub
+![Estadísticas de Samuel](https://github-readme-stats.vercel.app/api?username=SFraca&show_icons=true&theme=vincere&count_private=true&hide_border=true)
