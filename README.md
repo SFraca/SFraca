@@ -41,3 +41,4 @@ Estudiante de último curso de DAW. Mi formación combina el desarrollo de softw
 
 ### Actividad en GitHub
 ![Estadísticas de Samuel](https://github-readme-stats.vercel.app/api?username=SFraca&show_icons=true&theme=vincere&count_private=true&hide_border=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SFraca&layout=compact&theme=vincere&hide_border=true)
