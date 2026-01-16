@@ -36,9 +36,3 @@ Estudiante de último curso de DAW. Mi formación combina el desarrollo de softw
 ### Contacto
 - **Portfolio:** [sfraca.dev](https://sfraca.dev)
 - **LinkedIn:** [linkedin.com/in/samuel-fraca-serrano-81227a2ba](https://www.linkedin.com/in/samuel-fraca-serrano-81227a2ba)
-
----
-
-### Actividad en GitHub
-![Estadísticas de Samuel](https://github-readme-stats.vercel.app/api?username=SFraca&show_icons=true&theme=vincere&count_private=true&hide_border=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SFraca&layout=compact&theme=vincere&hide_border=true)
