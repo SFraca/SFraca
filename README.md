@@ -1,7 +1,7 @@
 # Samuel Fraca
 
-### Desarrollador de Aplicaciones Web | Sistemas y Redes
-Estudiante de último curso de DAW. Mi formación combina el desarrollo de software con la gestión de infraestructura y redes, lo que me permite tener una visión técnica integral. Actualmente enfocado en finalizar mi titulación y explorar la integración de IA en el desarrollo convencional.
+### Estudiante de Ciberseguridad | Desarrollo Web | Sistemas y Redes
+Actualmente cursando una especialización en Ciberseguridad en Entornos de las Tecnologías de la Información. Mi formación previa en Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes me permite abordar la seguridad desde una base técnica amplia. Actualmente estoy profundizando en ciberseguridad, con especial interés en el análisis forense digital.
 
 ---
 
@@ -26,13 +26,12 @@ Estudiante de último curso de DAW. Mi formación combina el desarrollo de softw
 
 ---
 
-### Formación y objetivos actual
-- Finalización de Ciclo Formativo de Grado Superior en DAW.
-- Profundización en lógica de programación y fundamentos de IA.
-- Desarrollo de proyectos personales y académicos orientados a soluciones prácticas.
+### Formación y objetivos actuales
+- Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información.
+- Profundización en seguridad de sistemas, redes y análisis forense digital.
+- Desarrollo de proyectos y prácticas orientados a consolidar conocimientos técnicos en ciberseguridad.
 
 ---
 
 ### Contacto
-- **Portfolio:** [sfraca.dev](https://sfraca.dev)
 - **LinkedIn:** [linkedin.com/in/samuel-fraca-serrano-81227a2ba](https://www.linkedin.com/in/samuel-fraca-serrano-81227a2ba)
